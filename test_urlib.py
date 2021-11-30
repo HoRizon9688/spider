@@ -29,44 +29,22 @@ headers = {
                   "Safari/537.36 "
 }
 
-get_iplist = "select ip from proxy_ip"
-get_portlist = "select port from proxy_ip"
-get_typelist = "select proxy_type from proxy_ip"
-cursor.execute(get_iplist)
-iplist = cursor.fetchall()
-cursor.execute(get_portlist)
-portlist = cursor.fetchall()
-cursor.execute(get_typelist)
-typelist = cursor.fetchall()
-num = len(iplist)
-
-proxy_list = []
-
-for i in range(0, num):
-    ip_port = "{}:{}".format(iplist[i][0], portlist[i][0])
-    proxy_type = typelist[i][0].lower()
-    temp = {proxy_type: ip_port}
-    proxy_list.append(temp)
-
-
 for key, value in area_name.items():
-    # sql = "select ip,port,proxy_type from proxy_ip order by rand() limit 1"  # 测试发现随机性很差
-    # cursor.execute(sql)
-    # result = cursor.fetchone()
-    # ip_port = "{}:{}".format(result[0], result[1])
-    # proxy_type = result[2].lower()
-    #
-    # proxy = {proxy_type: ip_port}
-    proxy = random.choice(proxy_list)
+    sql = "select ip,port,proxy_type from proxy_ip group by ip order by rand() limit 1"
+    cursor.execute(sql)
+    result = cursor.fetchone()
+    ip_port = "{}:{}".format(result[0], result[1])
+    proxy_type = result[2].lower()
+    proxy = {proxy_type: ip_port}
     print(proxy)
+
     proxy_handler = urllib.request.ProxyHandler(proxy)
     opener = urllib.request.build_opener(proxy_handler)
-
     url = baseurl + value
     print(url)
     req = urllib.request.Request(url=url, headers=headers, method='GET')
     try:
-        response = opener.open(req)
+        response = opener.open(req, timeout=60)
     except Exception as e:
         response = request.urlopen(req)
         print("代理失效，使用本机访问")
