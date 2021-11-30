@@ -10,4 +10,4 @@ for i in range(0, 3):
 workbook.save('xlwt.xls')
 worksheet = workbook.add_sheet('sheet2')
 worksheet.write(0,0,"test")
-workbook.save('xlwt.xls')
+workbook.save('{}.xls'.format('tt'))

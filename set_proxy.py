@@ -2,6 +2,11 @@ import pymysql
 import urllib.request
 from urllib import request
 
+# 存在重复测试某个代理的问题，改用test_proxy.py
+#
+#
+#
+#
 conn = pymysql.connect(host='localhost',
                        user='root',
                        password='chy200412',
@@ -32,12 +37,12 @@ for i in range(0, row[0]):
         cursor.execute(sql)
         conn.commit()
         print("失效代理已标记")
-        break
+        continue
     else:
         sql = "update proxy_ip set available='Y' where ip='{}'".format(result[0])
         cursor.execute(sql)
         conn.commit()
         print(response.status)
-        print(response.read().decode('utf-8'))
-        break
+        print("可用代理已标记")
+        continue
 conn.close()

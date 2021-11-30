@@ -7,7 +7,7 @@ import re
 import xlwt
 from bs4 import BeautifulSoup
 
-baseurl = "https://www.anjuke.com/fangjia/chongqing2020/"
+baseurl = "http://www.anjuke.com/fangjia/chongqing2020/"
 area_name = {"渝北": "yubei", "江北": "jiangbei", "沙坪坝": "shapingba", "南岸": "nanana", "九龙坡": "jiulongpo",
              "渝中": "yuzhong", "巴南": "banan", "大渡口": "dadukou", "北碚": "beibei", "万州": "wanzhouqu", "璧山": "bishanqu",
              "合川": "hechuanqu", "永川": "yongchuanqu", "江津": "jiangjinqu", "涪陵": "fulingqu", "铜梁": "tongliangqu",
@@ -17,7 +17,6 @@ area_name = {"渝北": "yubei", "江北": "jiangbei", "沙坪坝": "shapingba", 
              "石柱": "shizhutujiazuzizhixian", "秀山": "xiushantujiazumiaozuzizhixian", "忠县": "zhongxian",
              "彭水": "pengshuimiaozutujiazuzizhixian", "黔江": "qianjiangqu", "巫山": "cqwushanxian",
              "酉阳": "youyangtujiazumiaozuzizhixian", "城口": "chengkouxian", "巫溪": "wuxixian"}
-
 
 conn = pymysql.connect(host='localhost',
                        user='root',
@@ -29,25 +28,48 @@ headers = {
     'user-agent': "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/71.0.3578.98 "
                   "Safari/537.36 "
 }
-for key, value in area_name.items():
-    sql = "select ip,port,proxy_type from proxy_ip order by rand() limit 1"
-    cursor.execute(sql)
-    result = cursor.fetchone()
-    ip_port = "{}:{}".format(result[0], result[1])
-    proxy_type = result[2].lower()
 
-    proxy = {proxy_type: ip_port}
+get_iplist = "select ip from proxy_ip"
+get_portlist = "select port from proxy_ip"
+get_typelist = "select proxy_type from proxy_ip"
+cursor.execute(get_iplist)
+iplist = cursor.fetchall()
+cursor.execute(get_portlist)
+portlist = cursor.fetchall()
+cursor.execute(get_typelist)
+typelist = cursor.fetchall()
+num = len(iplist)
+
+proxy_list = []
+
+for i in range(0, num):
+    ip_port = "{}:{}".format(iplist[i][0], portlist[i][0])
+    proxy_type = typelist[i][0].lower()
+    temp = {proxy_type: ip_port}
+    proxy_list.append(temp)
+
+
+for key, value in area_name.items():
+    # sql = "select ip,port,proxy_type from proxy_ip order by rand() limit 1"  # 测试发现随机性很差
+    # cursor.execute(sql)
+    # result = cursor.fetchone()
+    # ip_port = "{}:{}".format(result[0], result[1])
+    # proxy_type = result[2].lower()
+    #
+    # proxy = {proxy_type: ip_port}
+    proxy = random.choice(proxy_list)
     print(proxy)
     proxy_handler = urllib.request.ProxyHandler(proxy)
     opener = urllib.request.build_opener(proxy_handler)
 
-    url = baseurl+value
+    url = baseurl + value
     print(url)
     req = urllib.request.Request(url=url, headers=headers, method='GET')
     try:
         response = opener.open(req)
     except Exception as e:
         response = request.urlopen(req)
+        print("代理失效，使用本机访问")
     finally:
         html = response.read().decode('utf-8')
         # print(html)
@@ -55,25 +77,23 @@ for key, value in area_name.items():
         find_value = re.compile(r'<span>(.*)</span>')
         bs = BeautifulSoup(html, "html.parser")
         info = bs.find_all('div', class_='fjlist-box boxstyle2', limit=1)
-        for i in info:
-            data = find_date.findall(str(i))
-            num = find_value.findall(str(i))
-            for j, k in zip(data, num):
-                print(j, k)
-
+        # for i in info:
+        #     data = find_date.findall(str(i))
+        #     num = find_value.findall(str(i))
+        #     for j, k in zip(data, num):
+        #         print(j, k)
 
     workbook = xlwt.Workbook(encoding='utf-8')
-    worksheet = workbook.add_sheet(key)
-    for text in result:
+    worksheet = workbook.add_sheet('sheet1')
+    for text in info:
         text = str(text)
         data = find_date.findall(text)
         num = find_value.findall(text)
-        # for i, j in zip(data, value):
-        #     print(i, j)
         for i in range(0, 12):
             worksheet.write(i, 0, data[i])
             worksheet.write(i, 1, num[i])
-    workbook.save('test.xls')
+    workbook.save('{}.xls'.format(key))
+    print("正在处理{}".format(key))
     print("Start : %s" % time.ctime())
-    time.sleep(random.randint(5, 15))
+    time.sleep(random.randint(30, 60))
     print("End : %s" % time.ctime())
