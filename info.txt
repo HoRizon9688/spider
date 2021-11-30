@@ -1,0 +1,1390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>2020年渝北房价走势图，2020重庆渝北房价均价，重庆渝北房价2020趋势查询-安居客</title><meta name="keywords" content="2020年渝北房价走势图，2020渝北房价均价，渝北房价2020趋势，渝北2020房价查询" />
+<meta name="description" content="安居客房价频道，提供2020年重庆渝北房价走势图，2020重庆渝北房价均价，重庆渝北房价2020趋势，渝北2020房价查询。" />
+<link rel="canonical" href="http://www.anjuke.com/fangjia/chongqing2020/yubei/" >
+<meta name="mobile-agent" content="format=html5; url=https://mobile.anjuke.com/fangjia/chongqing2020/yubei/" />
+<meta name="mobile-agent" content="format=html5; url=https://mobile.anjuke.com/fangjia/chongqing2020/yubei/" />
+<meta name="location" content="province=重庆;city=重庆;coord=106.557081,29.556671">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="https://mobile.anjuke.com/fangjia/chongqing2020/yubei/">
+    <meta name="baidu-site-verification" content="e8abd676df9f995bc969ac138b1c0f4d"/>
+    <meta name="sogou_site_verification" content="7rtgKfBjbl"/>
+    <meta name="360-site-verification" content="f7b8b308108b2c1c2de2825948822256" />
+    <meta name="google-site-verification" content="drkSj5A3WGSgkMXwzh6UfezwLEMsEXoQlMHL25oE1kA" />
+    <meta baidu-gxt-verify-token="9e7961d9a5d01603e5c2ae9bccffb9c2"/>
+    <meta name="shenma-site-verification" content="da9c53da88979ec98afae25b1ca3e43b" />
+    <link rel="stylesheet" rev="stylesheet" href="https://include.anjukestatic.com/anjuke-user/res/20211124.0119.0/b/Ershou_Web_Seo_Fangjia_FangjiaByYear.css" type="text/css" />
+    
+
+            <link rel="shortcut icon" href="https://pages.anjukestatic.com/usersite/site/img/global/1/favicon.ico" type="image/ico" />
+        <link rel="icon" href="https://pages.anjukestatic.com/usersite/site/img/global/1/favicon.ico" type="image/ico" />
+            <!-- 熊掌号所需参数 -->
+    </head>
+<body>
+        <div class="navhead">
+    <div class="header-center clearfix">
+        <!-- LOGO -->
+        <a href="https://chongqing.anjuke.com" class="logo">anjuke</a>
+
+        <!-- Navigation -->
+            <div class="cityselect">
+        <div id="switch_apf_id_5" class="city-view" >
+            重庆<i class="iconfont triangle-down">&#xE030;</i>
+        </div>
+        <div id="city_list" class="city-list" style="display:none;">
+                        <dl>
+                <dt>华北东北</dt>
+                <dd>
+                                        <a href="https://beijing.anjuke.com/" title="北京二手房">北京</a>
+                                        <a href="https://tianjin.anjuke.com/" title="天津二手房">天津</a>
+                                        <a href="https://dalian.anjuke.com/" title="大连二手房">大连</a>
+                                        <a href="https://sjz.anjuke.com/" title="石家庄二手房">石家庄</a>
+                                        <a href="https://heb.anjuke.com/" title="哈尔滨二手房">哈尔滨</a>
+                                        <a href="https://sy.anjuke.com/" title="沈阳二手房">沈阳</a>
+                                        <a href="https://ty.anjuke.com/" title="太原二手房">太原</a>
+                                        <a href="https://cc.anjuke.com/" title="长春二手房">长春</a>
+                                        <a href="https://weihai.anjuke.com/" title="威海二手房">威海</a>
+                                        <a href="https://weifang.anjuke.com/" title="潍坊二手房">潍坊</a>
+                                        <a href="https://huhehaote.anjuke.com/" title="呼和浩特二手房">呼和浩特</a>
+                                        <a href="https://baotou.anjuke.com/" title="包头二手房">包头</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华东地区</dt>
+                <dd>
+                                        <a href="https://shanghai.anjuke.com/" title="上海二手房">上海</a>
+                                        <a href="https://hangzhou.anjuke.com/" title="杭州二手房">杭州</a>
+                                        <a href="https://suzhou.anjuke.com/" title="苏州二手房">苏州</a>
+                                        <a href="https://nanjing.anjuke.com/" title="南京二手房">南京</a>
+                                        <a href="https://wuxi.anjuke.com/" title="无锡二手房">无锡</a>
+                                        <a href="https://jinan.anjuke.com/" title="济南二手房">济南</a>
+                                        <a href="https://qd.anjuke.com/" title="青岛二手房">青岛</a>
+                                        <a href="https://ks.anjuke.com/" title="昆山二手房">昆山</a>
+                                        <a href="https://nb.anjuke.com/" title="宁波二手房">宁波</a>
+                                        <a href="https://nc.anjuke.com/" title="南昌二手房">南昌</a>
+                                        <a href="https://fz.anjuke.com/" title="福州二手房">福州</a>
+                                        <a href="https://hf.anjuke.com/" title="合肥二手房">合肥</a>
+                                        <a href="https://xuzhou.anjuke.com/" title="徐州二手房">徐州</a>
+                                        <a href="https://zibo.anjuke.com/" title="淄博二手房">淄博</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华南地区</dt>
+                <dd>
+                                        <a href="https://shenzhen.anjuke.com/" title="深圳二手房">深圳</a>
+                                        <a href="https://guangzhou.anjuke.com/" title="广州二手房">广州</a>
+                                        <a href="https://foshan.anjuke.com/" title="佛山二手房">佛山</a>
+                                        <a href="https://cs.anjuke.com/" title="长沙二手房">长沙</a>
+                                        <a href="https://sanya.anjuke.com/" title="三亚二手房">三亚</a>
+                                        <a href="https://huizhou.anjuke.com/" title="惠州二手房">惠州</a>
+                                        <a href="https://dg.anjuke.com/" title="东莞二手房">东莞</a>
+                                        <a href="https://haikou.anjuke.com/" title="海口二手房">海口</a>
+                                        <a href="https://zh.anjuke.com/" title="珠海二手房">珠海</a>
+                                        <a href="https://zs.anjuke.com/" title="中山二手房">中山</a>
+                                        <a href="https://xm.anjuke.com/" title="厦门二手房">厦门</a>
+                                        <a href="https://nanning.anjuke.com/" title="南宁二手房">南宁</a>
+                                        <a href="https://quanzhou.anjuke.com/" title="泉州二手房">泉州</a>
+                                        <a href="https://liuzhou.anjuke.com/" title="柳州二手房">柳州</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>中 西 部</dt>
+                <dd>
+                                        <a href="https://chengdu.anjuke.com/" title="成都二手房">成都</a>
+                                        <a href="https://chongqing.anjuke.com/" title="重庆二手房">重庆</a>
+                                        <a href="https://wuhan.anjuke.com/" title="武汉二手房">武汉</a>
+                                        <a href="https://zhengzhou.anjuke.com/" title="郑州二手房">郑州</a>
+                                        <a href="https://xa.anjuke.com/" title="西安二手房">西安</a>
+                                        <a href="https://km.anjuke.com/" title="昆明二手房">昆明</a>
+                                        <a href="https://gy.anjuke.com/" title="贵阳二手房">贵阳</a>
+                                        <a href="https://lanzhou.anjuke.com/" title="兰州二手房">兰州</a>
+                                        <a href="https://luoyang.anjuke.com/" title="洛阳二手房">洛阳</a>
+                                    </dd>
+            </dl>
+                        <div class="morecity"><a href="https://www.anjuke.com/sy-city.html">更多城市&gt;</a></div>
+        </div>
+    </div>
+        <ul class="navigation" id="navigation">
+                        <li class="">
+                <a class="nav-lv1" href="https://chongqing.anjuke.com/" _soj="navigation">首 页</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cq.fang.anjuke.com/" _soj="navigation">新 房</a>
+                                    <ul class="xf">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/loupan/" _soj="navigation" >
+                                新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="http://cq.news.anjuke.com/" _soj="navigation" >
+                                楼讯                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/hui/" _soj="navigation" >
+                                热门活动                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/kft/zhuanche/" _soj="navigation" >
+                                看房团                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/fangyuan/" _soj="navigation" >
+                                房源                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/commercial/" _soj="navigation" >
+                                商业地产                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://haiwai.anjuke.com" _soj="navigation" >
+                                海外地产                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/brand/list/" _soj="navigation" >
+                                品牌专区                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://chongqing.anjuke.com/sale/" _soj="navigation">二手房</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/sale/" _soj="navigation" >
+                                房源                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/community/" _soj="navigation" >
+                                小区                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://chongqing.anjuke.com/map/sale/" _soj="navigation"target="_blank" >
+                                地图找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://www.anjuke.com/topic/" _soj="navigation" >
+                                主题找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/tycoon/" _soj="navigation" >
+                                找经纪人                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/tycoon/paiming/" _soj="navigation" >
+                                优秀经纪人榜                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/tycoon/weiguijingjiren/" _soj="navigation" >
+                                违规经纪人                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://www.anjuke.com/mobile?from=navigation" _soj="navigation" >
+                                我要卖房                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cq.zu.anjuke.com/" _soj="navigation">租 房</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cq.zu.anjuke.com/" _soj="navigation" >
+                                区域找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.zu.anjuke.com/ditie/" _soj="navigation" >
+                                地铁找房                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://cq.zu.anjuke.com/ditu/" _soj="navigation"target="_blank" >
+                                地图找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://chongqing.anjuke.com/community/" _soj="navigation" >
+                                小区                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.zu.anjuke.com/duanzu/" _soj="navigation" >
+                                民宿短租                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cq.sydc.anjuke.com/xzl-zu/" _soj="navigation">商铺写字楼</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/sp-zu/" _soj="navigation" >
+                                商铺                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/sp-zu/" _soj="navigation" >
+                                商铺出租                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/sp-shou/" _soj="navigation" >
+                                商铺出售                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/sp/all/w4/" _soj="navigation" >
+                                商铺新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/xzl-zu/" _soj="navigation" >
+                                写字楼                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://cq.sydc.anjuke.com/xzl-zu/" _soj="navigation" >
+                                写字楼出租                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/xzl-shou/" _soj="navigation" >
+                                写字楼出售                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.fang.anjuke.com/xzl/all/w5/" _soj="navigation" >
+                                写字楼新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/shangban/loupan/?from=spxzl_index_float_bglp" _soj="navigation" >
+                                办公楼盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cq.sydc.anjuke.com/shang-lhbg/?from=spxzl_index_float_lhbg" _soj="navigation" >
+                                联合办公                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://haiwai.anjuke.com" _soj="navigation">海外地产</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://jiazhuang.anjuke.com/chongqing/gongsi/" _soj="navigation">装修</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="http://cq.news.anjuke.com/" _soj="navigation">楼 讯</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://ai.anjuke.com/?action=hydc" _soj="navigation">房产研究院</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://chongqing.anjuke.com/market/" _soj="navigation">房 价</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://chongqing.anjuke.com/ask/" _soj="navigation">问 答</a>
+                            </li>
+                    </ul>
+
+        <!-- UserLogin Pc_Common_HeaderNavComponent-->
+        <div class="nav-right">
+            <div id="user_box" class="userbox">
+                <i class="icon icon-user"></i>
+                <a href="https://login.anjuke.com/login/form?history=aHR0cHM6Ly93d3cuYW5qdWtlLmNvbS9mYW5namlhL2Nob25ncWluZzIwMjAveXViZWkv" rel="nofollow">登录</a>
+                <a href="https://user.anjuke.com/register/" rel="nofollow">注册</a>
+            </div>
+
+            <a href="https://www.anjuke.com/mobile?from=navigation" rel="nofollow" class="download-app">
+                <i class="icon icon-apple"></i>
+                <i class="icon icon-android"></i>
+                下载APP
+            </a>
+        </div>
+    </div>
+</div>
+<script id="login_tpl_general" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <% if(righturl.links.expert_home){ %>
+        <li><a href="<%= righturl.links.expert_home %>">专家主页</a></li>
+        <% } %>
+        <% if(righturl.links.ask_center){ %>
+        <li><a href="<%= righturl.links.ask_center %>">问答中心</a></li>
+        <% } %>
+        <% if(righturl.links.expert_home || righturl.links.ask_center){ %>
+        <li class="hr"></li>
+        <% } %>
+        <li><a href="<%= righturl.links.my_favorite %>">我的收藏</a></li>
+        <li><a href="<%= righturl.links.view_history %>">浏览历史</a></li>
+        <li><a href="<%= righturl.links.subscription_management %>">订阅管理</a></li>
+        <li><a href="<%= righturl.links.my_ask %>">我的问答</a></li>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li><a href="<%= righturl.links.my_ugc %>">我的点评</a></li>
+        <li class="hr"></li>
+        <li><a target="_blank" href="<%= righturl.links.publish_sell || '#' %>">我要发房</a></li>
+        <li><a target="_blank" href="<%= common.my_house||'#' %>">我的房源</a></li>
+        <li class="hr"></li>
+        <li><a href="<%= lefturl.logouturl||'#' %>">退出</a></li>
+    </ul>
+</script>
+<script id="login_tpl_broker" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li class="hr"></li>
+        <li><a href="<%= righturl.myanjuke %>">中国网络经纪人</a></li>
+        <li class="hr"></li>
+        <li><a href="<%= lefturl.logouturl||'#' %>">退出</a></li>
+    </ul>
+</script>
+<script id="login_tpl_developer" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li class="hr"></li>
+        <% if( common.fytUrl ){ %>
+            <li><a href="'+common.fytUrl+'">云店通</a></li>
+        <% } %>
+        <% if( common.fytUrl || common.developUrl ){ %>
+            <li class="hr"></li>
+        <% } %>
+        <li><a href="<%= lefturl.logouturl %>">退出</a></li>
+    </ul>
+</script>
+    <div class="main-content">
+    <!-- 面包屑 -->
+    <div class="crumbs_wrap_top">
+        <div class="commCrumb clearFloat">
+    <div class="crumb">
+    	    		    			<a href="http://www.anjuke.com/fangjia/">全国历史房价</a> > 
+    		    	    		    			<a href="http://www.anjuke.com/fangjia/quanguo2020/">2020全国房价</a> > 
+    		    	    		    			<a href="http://www.anjuke.com/fangjia/yixianchengshi2020/">2020一线城市房价</a> > 
+    		    	    		    			<a href="http://www.anjuke.com/fangjia/chongqing2020/">2020重庆房价</a> > 
+    		    	    		    			2020渝北房价    		    	    </div>
+</div>    </div>
+
+    <h2>2020年渝北房价</h2>
+    <!-- 切换年份 -->
+    <div class="switch-year-ajkcomp clearfix">
+                    <a href="http://www.anjuke.com/fangjia/chongqing2021/yubei/" class="">2021年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2020/yubei/" class="selected">2020年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2019/yubei/" class="">2019年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2018/yubei/" class="">2018年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2017/yubei/" class="">2017年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2016/yubei/" class="">2016年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2015/yubei/" class="">2015年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2014/yubei/" class="">2014年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2013/yubei/" class="">2013年</a>
+                    <a href="http://www.anjuke.com/fangjia/chongqing2012/yubei/" class="">2012年</a>
+    </div>
+    <!-- 切换省市区域板块 -->
+        <div class="div-border items-list">
+    <div class="items">
+        <span class="item-title">区域：</span>
+        <span class="elem-l">
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/">全部</a>
+                                            <span class="selected-item">渝北</span>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/jiangbei/">江北</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/shapingba/">沙坪坝</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/nanana/">南岸</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/jiulongpo/">九龙坡</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/yuzhong/">渝中</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/banan/">巴南</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/dadukou/">大渡口</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/beibei/">北碚</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/wanzhouqu/">万州</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/bishanqu/">璧山</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/hechuanqu/">合川</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/yongchuanqu/">永川</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/jiangjinqu/">江津</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/fulingqu/">涪陵</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/tongliangqu/">铜梁</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/changshouqu/">长寿</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/tongnanqu/">潼南</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/rongchangqu/">荣昌</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/kaizhouqukaixian/">开州</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/dazhuqu/">大足</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/nanchuanqu/">南川</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/dainjiangxian/">垫江</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/qijiangqu/">綦江</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/wansheng/">万盛</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/liangpingxian/">梁平</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/fengduxian/">丰都</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/wulongxian/">武隆</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/fengjiexian/">奉节</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/yunyangxian/">云阳</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/shizhutujiazuzizhixian/">石柱</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/xiushantujiazumiaozuzizhixian/">秀山</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/zhongxian/">忠县</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/pengshuimiaozutujiazuzizhixian/">彭水</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/qianjiangqu/">黔江</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/cqwushanxian/">巫山</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/youyangtujiazumiaozuzizhixian/">酉阳</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/chengkouxian/">城口</a>
+                                            <a href="http://www.anjuke.com/fangjia/chongqing2020/wuxixian/">巫溪</a>
+                                <!--            <a href="">江苏</a>-->
+            <!--			<a href="">浙江</a>-->
+            <!--			<a href="">湖南</a>-->
+            <!--			<a href="">广东</a>-->
+            <!--			<a href="">江西</a>-->
+            <!--			<a href="">福建</a>-->
+                            <div class="sub-items">
+                                                                <span class="selected-item">全部</span>
+                                                <span class="sub-letter-item">a</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/aotelaisi/">奥特莱斯</a>
+                                                <span class="sub-letter-item">b</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/bijingongyuan/">碧津公园</a>
+                                                <span class="sub-letter-item">c</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/cqjiaoqu/">郊区</a>
+                                                <span class="sub-letter-item">d</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/dazhulin/">大竹林</a>
+                                                <span class="sub-letter-item">h</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/huixing/">回兴</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/huangnibangcq/">黄泥磅</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/huahuiyuan/">花卉园</a>
+                                                <span class="sub-letter-item">j</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/jinzhous/">金州</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/jiangbeijichang/">江北机场</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/jinshanshi/">金山寺</a>
+                                                <span class="sub-letter-item">k</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/konggangxincheng/">空港新城</a>
+                                                <span class="sub-letter-item">l</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/lianglu/">两路</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/longtousi/">龙头寺</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/longxizhen/">龙溪镇</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/lijia/">礼嘉</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/longhu/">龙湖</a>
+                                                <span class="sub-letter-item">m</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/meiguicheng/">玫瑰城</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/minandadao/">民安大道</a>
+                                                <span class="sub-letter-item">n</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/nongyeyuanqu/">农业园区</a>
+                                                <span class="sub-letter-item">q</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/qibozhongxin/">汽博中心</a>
+                                                <span class="sub-letter-item">r</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/ranjiaba/">冉家坝</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/renhes/">人和</a>
+                                                <span class="sub-letter-item">x</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/xinpaifang/">新牌坊</a>
+                                                <span class="sub-letter-item">y</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/yuelai/">悦来</a>
+                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/yuanyang/">鸳鸯</a>
+                                                <span class="sub-letter-item">z</span>
+                                                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/zhaomushan/">照母山</a>
+                                            <!--                <span class="selected-item">全部</span>-->
+                    <!--				<span class="sub-letter-item">B</span>-->
+                    <!--				<a href="">北京</a>-->
+                    <!--				<span class="sub-letter-item">G</span>-->
+                    <!--				<a href="">广州</a>-->
+                    <!--				<span class="sub-letter-item">S</span>-->
+                    <!--				<a href="">上海</a>-->
+                    <!--				<a href="">深圳</a>-->
+			</div>
+            		</span>
+    </div>
+</div>
+    <!-- 价格趋势 -->
+            <h3 class="pagemod-tit">2020年渝北房价走势</h3>
+        <div class="seo-chart" id="chart">
+	
+</div>
+    
+    <div class="avger clearfix">
+        <div class="fjlist-wrap clearfix">
+                            <div class="fjlist-box boxstyle2">
+    <h3>2020年渝北房价均价<a href="" class="none">更多&gt;</a></h3>
+    <ul>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年12月房价</b>
+                        <span>13952元/㎡</span>
+                        <em>0.02%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年11月房价</b>
+                        <span>13955元/㎡</span>
+                        <em>0.48%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年10月房价</b>
+                        <span>13889元/㎡</span>
+                        <em>0.85%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年09月房价</b>
+                        <span>14008元/㎡</span>
+                        <em>0.2%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年08月房价</b>
+                        <span>13980元/㎡</span>
+                        <em>0.28%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年07月房价</b>
+                        <span>13942元/㎡</span>
+                        <em>0.46%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年06月房价</b>
+                        <span>13878元/㎡</span>
+                        <em>0.15%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年05月房价</b>
+                        <span>13899元/㎡</span>
+                        <em>0.91%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年04月房价</b>
+                        <span>14027元/㎡</span>
+                        <em>1.09%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年03月房价</b>
+                        <span>14183元/㎡</span>
+                        <em>0.64%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年02月房价</b>
+                        <span>14093元/㎡</span>
+                        <em>1.61%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                <a href="javascript:;" class="nostyle">
+                                            <b>2020年01月房价</b>
+                        <span>13870元/㎡</span>
+                        <em>0.66%↓</em>
+                    </a>
+            </li>
+            </ul>
+</div>                                        <div class="fjlist-box boxstyle2">
+    <h3>与2020年渝北同城市其他区域房价<a href="" class="none">更多&gt;</a></h3>
+    <ul>
+                                <li class="clearfix up">
+                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/jiangbei/">
+                                                <b>2020年江北房价</b>
+                        <span>14140元/㎡</span>
+                        <em>0.19%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix down">
+                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/yubei/">
+                                                <b>2020年渝北房价</b>
+                        <span>13952元/㎡</span>
+                        <em>0.02%↓</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/yuzhong/">
+                                                <b>2020年渝中房价</b>
+                        <span>13522元/㎡</span>
+                        <em>0.89%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/nanana/">
+                                                <b>2020年南岸房价</b>
+                        <span>13434元/㎡</span>
+                        <em>1.02%↑</em>
+                    </a>
+            </li>
+                                <li class="clearfix up">
+                                    <a href="http://www.anjuke.com/fangjia/chongqing2020/shapingba/">
+                                                <b>2020年沙坪坝房价</b>
+                        <span>12015元/㎡</span>
+                        <em>0.26%↑</em>
+                    </a>
+            </li>
+            </ul>
+</div>
+                    </div>
+        <div class="side-right">
+                            <div class="side-list2">
+	<h3>全国各省2020房价</h3>
+	<ul class="clearfix">
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/yixianchengshi2020/">2020年一线城市省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/hebei2020/">2020年河北省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/shanxi2020/">2020年山西省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/liaoning2020/">2020年辽宁省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/jilin2020/">2020年吉林省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/heilongjiang2020/">2020年黑龙江省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/jiangsu2020/">2020年江苏省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/zhejiang2020/">2020年浙江省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/anhui2020/">2020年安徽省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/fujian2020/">2020年福建省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/jiangxi2020/">2020年江西省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/shandong2020/">2020年山东省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/henan2020/">2020年河南省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/hubei2020/">2020年湖北省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/hunan2020/">2020年湖南省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/guangdong2020/">2020年广东省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/hainan2020/">2020年海南省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/sichuan2020/">2020年四川省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/guizhou2020/">2020年贵州省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/yunnan2020/">2020年云南省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/shan3xi2020/">2020年陕西省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/gansu2020/">2020年甘肃省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/qinghai2020/">2020年青海省房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/taiwan2020/">2020年台湾房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/xinjiang2020/">2020年新疆房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/guangxi2020/">2020年广西房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/ningxia2020/">2020年宁夏房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/neimenggu2020/">2020年内蒙古房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/xizang2020/">2020年西藏房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/xianggang2020/">2020年香港房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/aomen2020/">2020年澳门房价</a>
+		</li>
+        	</ul>
+</div>                            <div class="side-list2">
+	<h3>本省城市2020房价</h3>
+	<ul class="clearfix">
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/beijing2020/">2020北京房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/shanghai2020/">2020上海房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/">2020重庆房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/tianjin2020/">2020天津房价</a>
+		</li>
+        	</ul>
+</div>                            <div class="side-list2">
+	<h3>区域2020房价</h3>
+	<ul class="clearfix">
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/yubei/">2020渝北房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/jiangbei/">2020江北房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/shapingba/">2020沙坪坝房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/nanana/">2020南岸房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/jiulongpo/">2020九龙坡房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/yuzhong/">2020渝中房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/banan/">2020巴南房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/dadukou/">2020大渡口房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/beibei/">2020北碚房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/wanzhouqu/">2020万州房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/bishanqu/">2020璧山房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/hechuanqu/">2020合川房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/yongchuanqu/">2020永川房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/jiangjinqu/">2020江津房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/fulingqu/">2020涪陵房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/tongliangqu/">2020铜梁房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/changshouqu/">2020长寿房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/tongnanqu/">2020潼南房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/rongchangqu/">2020荣昌房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/kaizhouqukaixian/">2020开州房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/dazhuqu/">2020大足房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/nanchuanqu/">2020南川房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/dainjiangxian/">2020垫江房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/qijiangqu/">2020綦江房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/wansheng/">2020万盛房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/liangpingxian/">2020梁平房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/fengduxian/">2020丰都房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/wulongxian/">2020武隆房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/fengjiexian/">2020奉节房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/yunyangxian/">2020云阳房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/shizhutujiazuzizhixian/">2020石柱房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/xiushantujiazumiaozuzizhixian/">2020秀山房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/zhongxian/">2020忠县房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/pengshuimiaozutujiazuzizhixian/">2020彭水房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/qianjiangqu/">2020黔江房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/cqwushanxian/">2020巫山房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/youyangtujiazumiaozuzizhixian/">2020酉阳房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/chengkouxian/">2020城口房价</a>
+		</li>
+        		<li>
+			<a href="http://www.anjuke.com/fangjia/chongqing2020/wuxixian/">2020巫溪房价</a>
+		</li>
+        	</ul>
+</div>                    </div>
+    </div>
+
+            <h3 class="pagemod-tit">根据2020年渝北房价趋势推荐二手房</h3>
+        <div class="rec-box clearfix">
+    <ul class="cf clearfix">
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/0d507a7047c6c1306c1e5404e4c0e58a/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6067269002?isauction=200" target="_blank" title="正规两房 精装修 业主安心出售"
+                   class="rec_common_title">正规两房 精装修 业主安心出售</a>
+                <p class="rec_common_price">85<span>万</span></p>
+                <p class="rec_common_info">2室2厅 65.8平米</p>
+                <p class="rec_common_name">九龙坡-巴国城 渝高幸福九里</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/14f92ad01e18a2fce19a73575c74d8b2/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6069688337" target="_blank" title="万科西九精装2房 看房有钥匙 业主急售 欢迎来电"
+                   class="rec_common_title">万科西九精装2房 看房有钥匙 业主急售 欢迎来电</a>
+                <p class="rec_common_price">90<span>万</span></p>
+                <p class="rec_common_info">2室1厅 54.09平米</p>
+                <p class="rec_common_name">九龙坡-石坪桥 万科西九(二期)</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/3ee47765133cf577bba9d80cc51af30f/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6040831074?isauction=200" target="_blank" title="临轻轨 万达 龙湖 住家装修 正规两房 采光好 家电齐全"
+                   class="rec_common_title">临轻轨 万达 龙湖 住家装修 正规两房 采光好 家电齐全</a>
+                <p class="rec_common_price">85<span>万</span></p>
+                <p class="rec_common_info">2室2厅 64平米</p>
+                <p class="rec_common_name">大渡口-金家湾 佳兆业滨江新城墨香庭</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/b1fa8ddbadf56f0ac4e0a6e1d7687d34/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6070338625?isauction=200" target="_blank" title="南山花园洋房 加勒比精装两房 视野开阔 靠山 居家清静空气好"
+                   class="rec_common_title">南山花园洋房 加勒比精装两房 视野开阔 靠山 居家清静空气好</a>
+                <p class="rec_common_price">85<span>万</span></p>
+                <p class="rec_common_info">2室2厅 76平米</p>
+                <p class="rec_common_name">南岸-黄桷垭 海昌加勒比</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="http://pic3.ajkimg.com/ajk/16e55c8f2e1aaf39dc7d0afdd0d3ee86/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6031968449?isauction=200" target="_blank" title="地铁房150米 唯一的刚需户型 80多万 现在最便宜的价格"
+                   class="rec_common_title">地铁房150米 唯一的刚需户型 80多万 现在最便宜的价格</a>
+                <p class="rec_common_price">84<span>万</span></p>
+                <p class="rec_common_info">2室2厅 74平米</p>
+                <p class="rec_common_name">沙坪坝-大学城 富力院士廷</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/989b65ad5ac15dd741fd204ff539ec8f/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6074350526" target="_blank" title="南北通透 电梯房 精装修 2室2厅 诚心出售 价格可议"
+                   class="rec_common_title">南北通透 电梯房 精装修 2室2厅 诚心出售 价格可议</a>
+                <p class="rec_common_price">95<span>万</span></p>
+                <p class="rec_common_info">2室2厅 72.03平米</p>
+                <p class="rec_common_name">江北-观音桥 金地花园</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/de7990fee944373e0ab777635954b448/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6051184431?isauction=200" target="_blank" title="石坪桥次新小区 轻轨站50米 视野开阔 适合居家 业主安心卖"
+                   class="rec_common_title">石坪桥次新小区 轻轨站50米 视野开阔 适合居家 业主安心卖</a>
+                <p class="rec_common_price">88<span>万</span></p>
+                <p class="rec_common_info">2室2厅 56平米</p>
+                <p class="rec_common_name">九龙坡-石坪桥 万科西九(二期)</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/f0c8a134a9aa77b404a32581c4eb3c8f/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6073521792?isauction=200" target="_blank" title="75W买大礼堂 儿院小区 电梯两房 采光好 视野无敌"
+                   class="rec_common_title">75W买大礼堂 儿院小区 电梯两房 采光好 视野无敌</a>
+                <p class="rec_common_price">82<span>万</span></p>
+                <p class="rec_common_info">2室1厅 79.25平米</p>
+                <p class="rec_common_name">渝中-两路口 儿院小区</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/87cd50ec55407d2faef955590ac171c0/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6075652566?isauction=200" target="_blank" title="急急急 低于市价 金沙港湾 肿瘤医院旁边 交通便利"
+                   class="rec_common_title">急急急 低于市价 金沙港湾 肿瘤医院旁边 交通便利</a>
+                <p class="rec_common_price">110<span>万</span></p>
+                <p class="rec_common_info">2室2厅 101.69平米</p>
+                <p class="rec_common_name">沙坪坝-沙滨路 华宇金沙港湾(C区)</p>
+                <div class="name-bg"></div>
+            </li>
+                    <li class="rec_common_con">
+                <img src="https://pic1.ajkimg.com/display/hj/a53bf14619c32bb46f73140b3dba2f29/240x180.jpg?t=1" alt="" width="210" height="162">
+                <a href="https://chongqing.anjuke.com/prop/view/A6072803034?isauction=200" target="_blank" title="沙坪坝区 雅豪丽景 户型紧凑采光好 小区环境好 近沙坪公园"
+                   class="rec_common_title">沙坪坝区 雅豪丽景 户型紧凑采光好 小区环境好 近沙坪公园</a>
+                <p class="rec_common_price">88<span>万</span></p>
+                <p class="rec_common_info">2室2厅 67平米</p>
+                <p class="rec_common_name">沙坪坝-小龙坎 雅豪丽景</p>
+                <div class="name-bg"></div>
+            </li>
+            </ul>
+</div>    
+    <div class="seo-tips">安居客房价评估网，提供2020年重庆渝北房价走势图，2020重庆渝北房价均价，房价趋势，渝北2020房价查询。手机版：<a href="https://mobile.anjuke.com/fangjia/chongqing2020/yubei/">渝北2020房价</a></div>
+
+    
+<div id="seo-box">
+    <ul class="parent-1 "><li class="tab-1 has-subitem" ><a class="but-border first-border  cur" href="javascript:void(0)">全国房价导航</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">热门房价</a></li><li class="border"><ul class="parent-2 btn-show "><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2021/"target="_blank">2021年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2020/"target="_blank">2020年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2019/"target="_blank">2019年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2018/"target="_blank">2018年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2017/"target="_blank">2017年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2016/"target="_blank">2016年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2015/"target="_blank">2015年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2014/"target="_blank">2014年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2013/"target="_blank">2013年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2012/"target="_blank">2012年全国房价</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://m.anjuke.com/sh/trendency/"target="_blank">上海房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/qd/trendency/"target="_blank">青岛房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nj/trendency/"target="_blank">南京房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cd/trendency/"target="_blank">成都房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/tj/trendency/"target="_blank">天津房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/dl/trendency/"target="_blank">大连房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/gz/trendency/"target="_blank">广州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hz/trendency/"target="_blank">杭州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sz/trendency/"target="_blank">深圳房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/wh/trendency/"target="_blank">武汉房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/su/trendency/"target="_blank">苏州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cq/trendency/"target="_blank">重庆房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/fs/trendency/"target="_blank">佛山房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/dg/trendency/"target="_blank">东莞房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cs/trendency/"target="_blank">长沙房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/bj/trendency/"target="_blank">北京房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/xm/trendency/"target="_blank">厦门房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sjz/trendency/"target="_blank">石家庄房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/wx/trendency/"target="_blank">无锡房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sy/trendency/"target="_blank">三亚房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hui/trendency/"target="_blank">惠州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/zh/trendency/"target="_blank">珠海房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/jn/trendency/"target="_blank">济南房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/ty/trendency/"target="_blank">太原房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hai/trendency/"target="_blank">海口房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/shen/trendency/"target="_blank">沈阳房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/xa/trendency/"target="_blank">西安房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/zz/trendency/"target="_blank">郑州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hf/trendency/"target="_blank">合肥房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/ks/trendency/"target="_blank">昆山房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/heb/trendency/"target="_blank">哈尔滨房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/fz/trendency/"target="_blank">福州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/km/trendency/"target="_blank">昆明房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cc/trendency/"target="_blank">长春房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nc/trendency/"target="_blank">南昌房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nn/trendency/"target="_blank">南宁房价</a></li></ul></li></ul></div>
+
+<script>
+    var AJK = AJK || {};
+    AJK.SeoRecommend = AJK.SeoRecommend || {};
+    AJK.SeoRecommend.type = '';
+</script>
+</div>    <div id="footer" class="footer">
+    <ul class="links">
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqList/defaultQue?faqKinds=2">关于安居客</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=95&faqTypeId=11">联系我们</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=104&faqTypeId=10">用户协议</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=228&faqTypeId=10">隐私政策</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="loan_link">房贷计算器</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="seo_qa">最新问答</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="map_link">网站地图</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="house_link">最新房源</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="other_city">其它城市</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://chongqing.anjuke.com/friendlink">友情链接</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="http://www.zx110.org/cxs/index.html">放心搜</a>
+            <em class='spe-lines'>|</em>
+        </li>
+        <li>
+                        <a rel='nofollow' target='_blank' href="https://about.anjuke.com/chanpin/?from=home_foot_tgy">推广服务</a>
+            <em class='spe-lines'>|</em>
+                    </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="https://biz.anjuke.com/biz/index">渠道招商</a>
+            <em class='spe-lines'>|</em>
+        </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="https://www.58che.com/">58车</a>
+        </li>
+    </ul>
+
+    <div id="loan_link" class="show-mod loan-link">
+        <ul>
+                            <li><a href="https://www.anjuke.com/calculator/loan" target="_blank">房贷计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/return" target="_blank">提前还款计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/qualify" target="_blank">购房能力评估计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/personal" target="_blank">公积金贷款计算器</a></li>
+                    </ul>
+    </div>
+
+    <div id="seo_qa" class="show-mod map-link">
+        <ul>
+                            <li><a href="https://www.anjuke.com/qa/" target="_blank">按时间查找房产问答</a></li>
+                            <li><a href="https://chongqing.anjuke.com/wenti/" target="_blank">按城市查找重庆房产问答</a></li>
+                            <li><a href="https://m.anjuke.com/qa/suoyin/" target="_blank">手机版按时间查找房产问题</a></li>
+                            <li><a href="https://m.anjuke.com/cq/wenti/" target="_blank">手机版按城市查找重庆房产问答</a></li>
+                    </ul>
+    </div>
+
+    <div id="map_link" class="show-mod map-link">
+        <ul>
+                            <li><a href="https://chongqing.anjuke.com/sitemap/" target="_blank">二手房地图</a></li>
+                            <li><a href="https://m.anjuke.com/cq/sitemap/" target="_blank">手机版二手房地图</a></li>
+                            <li><a href="https://cq.fang.anjuke.com/fangsitemap/A/" target="_blank">新房楼盘大全</a></li>
+                            <li><a href="https://m.anjuke.com/cq/xinfang/sitemap/" target="_blank">手机版新房地图</a></li>
+                            <li><a href="https://cq.fang.anjuke.com/fangsitemap/" target="_blank">新房地图</a></li>
+                            <li><a href="https://www.anjuke.com/chongqing/cm/" target="_blank">二手房小区大全</a></li>
+                            <li><a href="https://www.anjuke.com/chongqing/cm-zu/" target="_blank">租房小区大全</a></li>
+                            <li><a href="https://m.anjuke.com/cq/xiaoqu/" target="_blank">手机版小区大全</a></li>
+                            <li><a href="https://mobile.anjuke.com/esf/cq-cm/" target="_blank">重庆小区</a></li>
+                            <li><a href="https://chongqing.gongjijin.anjuke.com/" target="_blank">重庆公积金</a></li>
+                            <li><a href="https://chongqing.anjuke.com" target="_blank">重庆房产网</a></li>
+                            <li><a href="https://cq.fang.anjuke.com" target="_blank">重庆新房</a></li>
+                            <li><a href="https://chongqing.anjuke.com/sale/" target="_blank">重庆二手房</a></li>
+                            <li><a href="https://cq.zu.anjuke.com" target="_blank">重庆租房</a></li>
+                            <li><a href="https://chongqing.anjuke.com/market/" target="_blank">重庆房价</a></li>
+                            <li><a href="https://chongqing.anjuke.com/bieshu-sale/" target="_blank">重庆别墅出售</a></li>
+                            <li><a href="https://chongqing.anjuke.com/gongyu-sale/" target="_blank">重庆公寓出售</a></li>
+                            <li><a href="https://cq.zu.anjuke.com/gongyu-zufang/" target="_blank">重庆公寓出租</a></li>
+                            <li><a href="https://cq.zu.anjuke.com/hezu-zufang/" target="_blank">重庆合租房</a></li>
+                            <li><a href="https://cq.zu.anjuke.com/geren-zufang/" target="_blank">重庆个人租房</a></li>
+                            <li><a href="https://cq.zu.anjuke.com/bieshu-zufang/" target="_blank">重庆别墅出租</a></li>
+                            <li><a href="https://m.anjuke.com/cq" target="_blank">重庆房产网</a></li>
+                            <li><a href="https://m.anjuke.com/cq/sale/" target="_blank">重庆二手房</a></li>
+                            <li><a href="https://m.anjuke.com/cq/rent/" target="_blank">重庆租房</a></li>
+                            <li><a href="https://m.anjuke.com/cq/trendency/" target="_blank">重庆房价</a></li>
+                            <li><a href="https://m.anjuke.com/cq/qa/" target="_blank">重庆问答</a></li>
+                    </ul>
+    </div>
+
+    <div id="house_link" class="show-mod house-link">
+        <ul>
+                            <li><a href="https://chongqing.anjuke.com/fang/" target="_blank">二手房</a></li>
+                            <li><a href="https://cq.zu.anjuke.com/fang/" target="_blank">租房</a></li>
+                            <li><a href="https://cq.sp.anjuke.com/fang_shou/" target="_blank">商铺出售</a></li>
+                            <li><a href="https://cq.sp.anjuke.com/fang_zu/" target="_blank">商铺出租</a></li>
+                            <li><a href="https://cq.sydc.anjuke.com/fang_shou/" target="_blank">写字楼出售</a></li>
+                            <li><a href="https://cq.sydc.anjuke.com/fang_zu/" target="_blank">写字楼出租</a></li>
+                            <li><a href="https://m.anjuke.com/cq/propsitemap/esf/" target="_blank">手机版二手房</a></li>
+                            <li><a href="https://m.anjuke.com/cq/propsitemap/zf/" target="_blank">手机版租房</a></li>
+                            <li><a href="https://cq.fang.anjuke.com/fang/" target="_blank">新房</a></li>
+                    </ul>
+    </div>
+
+    <div id="other_city" class="show-mod other-city">
+        <ul>
+                        <li><a href="https://shanghai.anjuke.com">上海房产网</a></li>
+                        <li><a href="https://shanghai.anjuke.com/sale/">上海二手房</a></li>
+                        <li><a href="https://guangzhou.anjuke.com">广州房产网</a></li>
+                        <li><a href="https://guangzhou.anjuke.com/sale/">广州二手房</a></li>
+                        <li><a href="https://shenzhen.anjuke.com">深圳房产网</a></li>
+                        <li><a href="https://shenzhen.anjuke.com/sale/">深圳二手房</a></li>
+                        <li><a href="https://beijing.anjuke.com">北京房产网</a></li>
+                        <li><a href="https://beijing.anjuke.com/sale/">北京二手房</a></li>
+                        <li><a href="https://chengdu.anjuke.com">成都房产网</a></li>
+                        <li><a href="https://chengdu.anjuke.com/sale/">成都二手房</a></li>
+                        <li><a href="https://nanjing.anjuke.com">南京房产网</a></li>
+                        <li><a href="https://nanjing.anjuke.com/sale/">南京二手房</a></li>
+                        <li><a href="https://tianjin.anjuke.com">天津房产网</a></li>
+                        <li><a href="https://tianjin.anjuke.com/sale/">天津二手房</a></li>
+                        <li><a href="https://hangzhou.anjuke.com">杭州房产网</a></li>
+                        <li><a href="https://hangzhou.anjuke.com/sale/">杭州二手房</a></li>
+                        <li><a href="https://suzhou.anjuke.com">苏州房产网</a></li>
+                        <li><a href="https://suzhou.anjuke.com/sale/">苏州二手房</a></li>
+                        <li><a href="https://chongqing.anjuke.com">重庆房产网</a></li>
+                        <li><a href="https://chongqing.anjuke.com/sale/">重庆二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sy/sale/">三亚二手房</a></li>
+                        <li><a href="https://m.anjuke.com/xm/sale/">厦门二手房</a></li>
+                        <li><a href="https://m.anjuke.com/zh/sale/">珠海二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hui/sale/">惠州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sh/sale/">上海二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sz/sale/">深圳二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hai/sale/">海口二手房</a></li>
+                        <li><a href="https://m.anjuke.com/bj/sale/">北京二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sjz/sale/">石家庄二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hz/sale/">杭州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/gz/sale/">广州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/su/sale/">苏州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nj/sale/">南京二手房</a></li>
+                        <li><a href="https://m.anjuke.com/tj/sale/">天津二手房</a></li>
+                        <li><a href="https://m.anjuke.com/ks/sale/">昆山二手房</a></li>
+                        <li><a href="https://m.anjuke.com/dg/sale/">东莞二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cc/sale/">长春二手房</a></li>
+                        <li><a href="https://m.anjuke.com/zz/sale/">郑州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/heb/sale/">哈尔滨二手房</a></li>
+                        <li><a href="https://m.anjuke.com/ty/sale/">太原二手房</a></li>
+                        <li><a href="https://m.anjuke.com/dl/sale/">大连二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nn/sale/">南宁二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hf/sale/">合肥二手房</a></li>
+                        <li><a href="https://m.anjuke.com/fz/sale/">福州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/qd/sale/">青岛二手房</a></li>
+                        <li><a href="https://m.anjuke.com/jn/sale/">济南二手房</a></li>
+                        <li><a href="https://m.anjuke.com/km/sale/">昆明二手房</a></li>
+                        <li><a href="https://m.anjuke.com/wh/sale/">武汉二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cs/sale/">长沙二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cq/sale/">重庆二手房</a></li>
+                        <li><a href="https://m.anjuke.com/shen/sale/">沈阳二手房</a></li>
+                        <li><a href="https://m.anjuke.com/xa/sale/">西安二手房</a></li>
+                        <li><a href="https://m.anjuke.com/fs/sale/">佛山二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nc/sale/">南昌二手房</a></li>
+                        <li><a href="https://m.anjuke.com/wx/sale/">无锡二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cd/sale/">成都二手房</a></li>
+                        <li><a href="https://beijing.gongjijin.anjuke.com/">北京公积金</a></li>
+                        <li><a href="https://chengdu.gongjijin.anjuke.com/">成都公积金</a></li>
+                        <li><a href="https://guangzhou.gongjijin.anjuke.com/">广州公积金</a></li>
+                        <li><a href="https://hangzhou.gongjijin.anjuke.com/">杭州公积金</a></li>
+                        <li><a href="https://nanjing.gongjijin.anjuke.com/">南京公积金</a></li>
+                        <li><a href="https://shanghai.gongjijin.anjuke.com/">上海公积金</a></li>
+                        <li><a href="https://shenzhen.gongjijin.anjuke.com/">深圳公积金</a></li>
+                        <li><a href="https://suzhou.gongjijin.anjuke.com/">苏州公积金</a></li>
+                        <li><a href="https://tianjin.gongjijin.anjuke.com/">天津公积金</a></li>
+                        <li><a href="https://chongqing.gongjijin.anjuke.com/">重庆公积金</a></li>
+                    </ul>
+    </div>
+
+    <div class="cp-mod">
+        <a rel="nofollow" href="https://kfzx.anjuke.com/" target="_blank">客户服务中心</a>&ensp;&ensp;&ensp;
+        违法信息举报：&ensp;4006209008&ensp;<a href="mailto:yinsibaohu@58.com" target="_blank" rel="nofollow">yinsibaohu@58.com</a>&ensp;&ensp;&ensp;
+        Copyright&nbsp;&copy;&nbsp;2007-2021&ensp;www.anjuke.com&ensp;All Rights Reserved&ensp;&ensp;&ensp;<a href="https://www.anjuke.com/sitemap-miibeian" rel="nofollow">ICP号：沪&ensp;B2-20090008</a>&ensp;&ensp;&ensp;
+        <a href="https://beian.miit.gov.cn" target="_blank" id="huIcb"></a>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+        var domainURl = {
+            'jikejia.cn': 'ICP备：沪B2-20090008-7',
+            'jkjcdn.com': 'ICP备：沪B2-20090008-7',
+            'jkjstatic.com': 'ICP备：沪B2-20090008-7',
+            'ajkinclude.com': 'ICP备：沪B2-20090008-8',
+            'ajkstatic.com': 'ICP备：沪B2-20090008-8',
+            'ajkpic.com': 'ICP备：沪B2-20090008-8',
+            'ajkpages.com': 'ICP备：沪B2-20090008-8',
+            'ajkimage.com': 'ICP备：沪B2-20090008-8',
+            'anjuke.com': 'ICP备：沪B2-20090008-1',
+            '安居客.com': 'ICP备：沪B2-20090008-1',
+            'anjuke.cn': 'ICP备：沪B2-20090008-1',
+            'anjukestatic.com': 'ICP备：沪B2-20090008-6',
+            'ajkdns.com': 'ICP备：沪B2-20090008-6',
+            'ajkimg.com': 'ICP备：沪B2-20090008-6',
+            'ajkcdn.com': 'ICP备：沪B2-20090008-6',
+            'ajkdns2.com': 'ICP备：沪B2-20090008-6',
+            'aifang.com': 'ICP备：沪B2-20090008-3',
+            'aifcdn.com': 'ICP备：沪B2-20090008-3',
+            'linganvr.com': 'ICP备：沪B2-20090008-9'
+        }
+        var huIcbVal = document.getElementById('huIcb');
+        for (var u in domainURl) {
+            if (document.location.host.indexOf(u)>0) {
+                huIcbVal.innerHTML = domainURl[u]
+            }
+        }
+    </script>
+    
+    </div>
+    <!-- 侧边栏 -->
+        
+
+<script type="text/javascript" crossorigin src="https://pages.anjukestatic.com/usersite/site/js/jquery/1.11.3/jquery-underscore.min.js"></script>
+<script type="text/javascript" crossorigin src="https://pages.anjukestatic.com/usersite/site/js/bbv10.js"></script>
+<script type="text/javascript" crossorigin src="https://include.anjukestatic.com/anjuke-user/res/20211124.0119.0/s/page/pc/layout/../../../component/user/component/soj/bb.js"></script>
+<script type="text/javascript" crossorigin src="https://pages.anjukestatic.com/usersite/site/js/highcharts/highcharts.js"></script>
+<script type="text/javascript" crossorigin src="https://include.anjukestatic.com/anjuke-user/res/20211124.0119.0/b/Ershou_Web_Seo_Fangjia_FangjiaByYear.js"></script>
+<script type="text/javascript">
+
+$(function(){
+    ajk.citySelector = new ajk.DropDown($('#switch_apf_id_5'),$('#city_list'),500);
+});
+
+    $(function(){
+        new ajk.UserLogin({
+            userbox:'#user_box',
+            getUserInfo:function(da,callback){
+                 $.post("https://user.anjuke.com"+'/ajax/checkMenu/'+'?r='+Math.random(),
+                    function(r){
+                        callback(r);
+                    },'jsonp')
+            }
+        });
+    });
+
+	window.drawChart({
+		id: 'chart',
+		type: 'line',
+		xdata: ["01月","02月","03月","04月","05月","06月","07月","08月","09月","10月","11月","12月"],
+		xyear: {"01月":"2020年","02月":"2020年","03月":"2020年","04月":"2020年","05月":"2020年","06月":"2020年","07月":"2020年","08月":"2020年","09月":"2020年","10月":"2020年","11月":"2020年","12月":"2020年"},
+		ydata: [{"name":"渝北","data":[13870,14093,14183,14027,13899,13878,13942,13980,14008,13889,13955,13952]}]//		xdata: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+//		xyear: {'1月': '2016年','2月': '2016年','3月': '2016年','4月': '2016年','5月': '2016年','6月': '2016年','7月': '2016年','8月': '2016年','9月': '2016年','10月': '2016年','11月': '2016年','12月': '2016年'},
+//		ydata: [{"name": "上海", "data": [46271,48009,49765,51292,52142,52640,53228,52193,51791,53919,53343,53401]}]
+	});
+</script>
+        <script>
+    ;(function(){
+        ajk.Logger.setSite('anjuke');
+        ajk.Logger.setPage('Ershou_Web_Seo_Fangjia_FangjiaByYearPage');
+        ajk.Logger.setPageName('pc_anjuke_nianfen_quyu_fangjia');
+        ajk.Logger.setCtid('');
+        var sojData = {
+            'customparam':'{}'
+        }
+        ajk.Logger.sendSoj(sojData);
+    })();
+    </script>
+    <!-- START: 性能测试监控 -->
+    <script>
+        $(function(){
+            var v = "1501241237",
+                src = "//pages.anjukestatic.com/prism/performance.js?v="+v;
+            $.ajax({
+              url: src,
+              dataType: "script",
+              cache:true,
+              success: function(){
+                window.perfConfig = {
+                    pageName : 'Ershou_Web_Seo_Fangjia_FangjiaByYearPage',
+                    siteName : 'ershoufang'
+                };
+              }
+            });
+        });
+    </script>
+    <!-- END: 性能测试监控 -->
+
+        <!-- 初始化曝光 -->
+    <script>
+       $(function(){
+            ajk.exposure = new ajk.Logger.Exposure({
+                site:'anjuke-exposure-npv',
+                page:'Ershou_Web_Seo_Fangjia_FangjiaByYearPage',
+                pageName:'pc_anjuke_nianfen_quyu_fangjia',
+                NGuid:'',
+                NUid:''
+            });
+            ajk.exposure.add($('[data-trace]'));
+        });
+    </script>
+    
+    <!-- <script type="text/javascript">
+(function(param){
+       var c = {query:[], args:param||{}};
+       c.query.push(["_setAccount","8"]);//固定参数
+       (window.__zpSMConfig = window.__zpSMConfig||[]).push(c);
+       var zp = document.createElement("script"); zp.type = "text/javascript"; zp.async = true;
+       zp.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//cdn.zampda.net/s.js";
+       var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(zp, s);
+}) (window.__zp_tag_params);
+</script>
+
+ -->
+
+    
+    <!-- 58反爬虫js，设备指纹js -->
+    <script type="text/javascript">
+        var xxfwConfig = {namespace:'anjuke_c_pc'};
+
+        function loadJs() {
+            // 设备指纹js
+            var element = document.createElement("script");
+            var now = new Date()
+            var timestamp=now.getFullYear() +''+now.getMonth() +''+now.getDate()+''+now.getHours();
+            var appKey = 'gk1leqzjj6u65bd2zbal';
+            element.src = "//j1.58cdn.com.cn/git/xxzl/teemo/teemo_init.js?dt="+timestamp+"&appkey="+appKey;
+            document.body.appendChild(element);
+
+            // 反爬虫js
+            // jQuery.getScript("https://pages.anjukestatic.com/usersite/site/js/xxfw.min.js");
+        }
+
+        if (!(navigator.userAgent.match(/miniprogram/i) || window.__wxjs_environment === 'miniprogram')) {
+            if (window.addEventListener) {
+                window.addEventListener("load", loadJs, false);
+            } else if (window.attachEvent) {
+                window.attachEvent("onload", loadJs);
+            } else {
+                window.onload = loadJs;
+            }
+        }
+    </script>
+
+    <script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+        <script type="text/javascript">
+        var userId = '0';
+        var isTest = /test/.test(document.domain)||/dev/.test(document.domain);
+        var appId = 6322339781814;
+        var projectId ='6289197098934';
+        var progectKey ='3kxpt7yb';
+        if(isTest){
+           appId = 6296943323570;
+           projectId = '6289210146098';
+           progectKey = 'w65br84t';
+        }
+        window.WMDA_SDK_CONFIG = ({
+            api_v: 1,
+            sdk_v: 0.1,
+            mode: 'report',
+            appid: appId,
+            key: progectKey,
+            project_id: projectId,
+            // cookie_domain: document.domain,   //58域下不需要该字段
+            cate_id: '',   //按需填写
+            page_extra: [{   //按需填写
+                key: 'pagename',
+                value: 'Ershou_Web_Seo_Fangjia_FangjiaByYearPage'
+            },{
+                key: 'city_id',
+                value: '20'
+            }],
+            user_extra: [{   //按需填写
+              key: 'guid',
+              value:'EA338BB4-F4AB-072E-563B-E422B357DF97'
+            }],
+            channel: '',   //按需填写
+            getUserId: function() {
+                return userId;
+            }
+        });
+    </script>
+    <script type="text/javascript" src="//pages.anjukestatic.com/usersite/site/js/wmda_statistic_20190218.js" async defer></script>
+    <script type="text/javascript" src="https://pages.anjukestatic.com/usersite/ie/IE886SDK_20200313_01.js"></script>
+    <script type="text/javascript">
+        var IE886config = {
+            intervalDay: 1,
+            totalDay: 1000
+        };
+        IE886SDK(IE886config);
+    </script>
+</body>
+</html>
