@@ -1,7 +1,7 @@
 # 测试单个代理
 # import urllib.request
 #
-# proxy_handler = urllib.request.ProxyHandler({"http": "59.66.19.53:7890"})
+# proxy_handler = urllib.request.ProxyHandler({"http": "120.26.123.95:8010"})
 # opener = urllib.request.build_opener(proxy_handler)
 # headers = {
 #     'user-agent': "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/71.0.3578.98 "

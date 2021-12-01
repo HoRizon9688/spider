@@ -17,7 +17,7 @@ conn = pymysql.connect(host='localhost',
                        database='proxy_pool')
 cursor = conn.cursor()
 print("数据库连接成功")
-for i in range(1, 10):
+for i in range(1, 6):
     baseurl = "https://www.kuaidaili.com/free/inha/"
     url = baseurl + str(i)
     headers = {
@@ -48,7 +48,8 @@ for i in range(1, 10):
         conn.commit()
     print("正在处理第{}页".format(i))
     # 等待随机时间
-    # print("Start : %s" % time.ctime())
-    # time.sleep(random.randint(6, 12))
-    # print("End : %s" % time.ctime())
+    print("Start : %s" % time.ctime())
+    time.sleep(random.randint(30, 60))
+    print("End : %s" % time.ctime())
 conn.close()
+
