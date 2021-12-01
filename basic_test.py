@@ -30,7 +30,7 @@ headers = {
                   "Safari/537.36 "
 }
 
-url = baseurl+"yubei"
+url = baseurl+"shapingba"
 print(url)
 req = urllib.request.Request(url=url, headers=headers, method='GET')
 response = request.urlopen(req)

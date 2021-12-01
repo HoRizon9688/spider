@@ -8,15 +8,7 @@ import xlwt
 from bs4 import BeautifulSoup
 
 baseurl = "http://www.anjuke.com/fangjia/chongqing2020/"
-area_name = {"渝北": "yubei", "江北": "jiangbei", "沙坪坝": "shapingba", "南岸": "nanana", "九龙坡": "jiulongpo",
-             "渝中": "yuzhong", "巴南": "banan", "大渡口": "dadukou", "北碚": "beibei", "万州": "wanzhouqu", "璧山": "bishanqu",
-             "合川": "hechuanqu", "永川": "yongchuanqu", "江津": "jiangjinqu", "涪陵": "fulingqu", "铜梁": "tongliangqu",
-             "长寿": "changshouqu", "潼南": "tongnanqu", "荣昌": "rongchangqu", "开州": "kaizhouqukaixian", "大足": "dazhuqu",
-             "南川": "nanchuanqu", "垫江": "dianjiangxian", "綦江": "qijiangqu", "万盛": "wansheng", "梁平": "liangpingxian",
-             "丰都": "fengduxian", "武隆": "wulongxian", "奉节": "fengjiexian", "云阳": "yunyangxian",
-             "石柱": "shizhutujiazuzizhixian", "秀山": "xiushantujiazumiaozuzizhixian", "忠县": "zhongxian",
-             "彭水": "pengshuimiaozutujiazuzizhixian", "黔江": "qianjiangqu", "巫山": "cqwushanxian",
-             "酉阳": "youyangtujiazumiaozuzizhixian", "城口": "chengkouxian", "巫溪": "wuxixian"}
+area_name = {"巫溪": "wuxixian"}
 
 conn = pymysql.connect(host='localhost',
                        user='root',
@@ -29,30 +21,44 @@ headers = {
                   "Safari/537.36 "
 }
 
-for key, value in area_name.items():
-    sql = "select ip,port,proxy_type from proxy_ip group by ip order by rand() limit 1"
-    cursor.execute(sql)
-    result = cursor.fetchone()
-    ip_port = "{}:{}".format(result[0], result[1])
-    proxy_type = result[2].lower()
-    proxy = {proxy_type: ip_port}
-    print(proxy)
+find_date = re.compile(r'<b>(.*)</b>')
+find_value = re.compile(r'<span>(.*)</span>')
 
-    proxy_handler = urllib.request.ProxyHandler(proxy)
-    opener = urllib.request.build_opener(proxy_handler)
+for key, value in area_name.items():
     url = baseurl + value
     print(url)
     req = urllib.request.Request(url=url, headers=headers, method='GET')
-    try:
-        response = opener.open(req, timeout=60)
-    except Exception as e:
-        response = request.urlopen(req)
-        print("代理失效，使用本机访问")
-    finally:
+    error_count = 0
+    for i in range(1, 5):
+        sql = "select ip,port,proxy_type from proxy_ip group by ip order by rand() limit 1"
+        cursor.execute(sql)
+        result = cursor.fetchone()
+        ip_port = "{}:{}".format(result[0], result[1])
+        proxy_type = result[2].lower()
+        proxy = {proxy_type: ip_port}
+        proxy_handler = urllib.request.ProxyHandler(proxy)
+        opener = urllib.request.build_opener(proxy_handler)
+        print(proxy)
+        try:
+            response = opener.open(req, timeout=30)
+        except Exception as e:
+            error_count += 1
+            print("代理失效，第{}次尝试重新选取代理".format(i))
+            del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
+            cursor.execute(del_sql)
+            conn.commit()
+            continue
+        else:
+            html = response.read().decode('utf-8')
+            # print(html)
+            bs = BeautifulSoup(html, "html.parser")
+            info = bs.find_all('div', class_='fjlist-box boxstyle2', limit=1)
+            break
+    if error_count == 4:
+        print("使用本机直接访问")
+        response = urllib.request.urlopen(req)
         html = response.read().decode('utf-8')
         # print(html)
-        find_date = re.compile(r'<b>(.*)</b>')
-        find_value = re.compile(r'<span>(.*)</span>')
         bs = BeautifulSoup(html, "html.parser")
         info = bs.find_all('div', class_='fjlist-box boxstyle2', limit=1)
         # for i in info:
