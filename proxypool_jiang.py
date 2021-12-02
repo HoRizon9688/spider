@@ -17,7 +17,7 @@ headers = {
                   "Chrome/71.0.3578.98 "
                   "Safari/537.36 "
 }
-for i in range(1, 4):
+for i in range(1, 3):
     url = "http://ip.jiangxianli.com/?page={}&protocol=http".format(i)
     find_ip = re.compile(r'<td>(\d*\.\d*\.\d*\.\d*)</td>')
     find_port = re.compile(r'<td>(\d*)?</td>')

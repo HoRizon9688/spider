@@ -23,9 +23,9 @@ conn = pymysql.connect(host='localhost',
                        password='chy200412',
                        database='proxy_pool')
 cursor = conn.cursor()
-get_iplist = "select ip from proxy_ip"
-get_portlist = "select port from proxy_ip"
-get_typelist = "select proxy_type from proxy_ip"
+get_iplist = "select ip from proxy_ip group by ip"
+get_portlist = "select port from proxy_ip group by ip"
+get_typelist = "select proxy_type from proxy_ip group by ip"
 cursor.execute(get_iplist)
 iplist = cursor.fetchall()
 cursor.execute(get_portlist)

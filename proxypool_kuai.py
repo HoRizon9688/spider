@@ -17,7 +17,7 @@ conn = pymysql.connect(host='localhost',
                        database='proxy_pool')
 cursor = conn.cursor()
 print("数据库连接成功")
-for i in range(1, 6):
+for i in range(1, 4):
     baseurl = "https://www.kuaidaili.com/free/inha/"
     url = baseurl + str(i)
     headers = {

@@ -8,18 +8,8 @@ import xlwt
 from bs4 import BeautifulSoup
 
 
-def get_data():
+def get_data(area_name):
     baseurl = "http://www.anjuke.com/fangjia/chongqing2018/"
-    area_name = {"渝北": "yubei", "江北": "jiangbei", "沙坪坝": "shapingba", "南岸": "nanana", "九龙坡": "jiulongpo",
-                 "渝中": "yuzhong", "巴南": "banan", "大渡口": "dadukou", "北碚": "beibei", "万州": "wanzhouqu", "璧山": "bishanqu",
-                 "合川": "hechuanqu", "永川": "yongchuanqu", "江津": "jiangjinqu", "涪陵": "fulingqu", "铜梁": "tongliangqu",
-                 "长寿": "changshouqu", "潼南": "tongnanqu", "荣昌": "rongchangqu", "开州": "kaizhouqukaixian", "大足": "dazhuqu",
-                 "南川": "nanchuanqu", "垫江": "dainjiangxian", "綦江": "qijiangqu", "梁平": "liangpingxian",
-                 "丰都": "fengduxian", "武隆": "wulongxian", "奉节": "fengjiexian", "云阳": "yunyangxian",
-                 "石柱": "shizhutujiazuzizhixian", "秀山": "xiushantujiazumiaozuzizhixian", "忠县": "zhongxian",
-                 "彭水": "pengshuimiaozutujiazuzizhixian", "黔江": "qianjiangqu", "巫山": "cqwushanxian",
-                 "酉阳": "youyangtujiazumiaozuzizhixian", "巫溪": "wuxixian"}
-
     conn = pymysql.connect(host='localhost',
                            user='root',
                            password='chy200412',
@@ -51,7 +41,7 @@ def get_data():
             opener = urllib.request.build_opener(proxy_handler)
             print(proxy)
             try:
-                response = opener.open(req, timeout=15)
+                response = opener.open(req, timeout=25)
             except Exception:
                 error_count += 1
                 print("代理失效，第{}次尝试重新选取代理".format(i))
@@ -99,11 +89,27 @@ def get_data():
             print("End : %s" % time.ctime())
         else:
             print("获取失败")
+            # del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
+            # cursor.execute(del_sql)
+            # conn.commit()
             error_area[key] = value
     return error_area
 
 
-erro_area = get_data()
-if erro_area:
-    for key in erro_area.keys():
-        print(key)
+area_name = {"渝北": "yubei", "江北": "jiangbei", "沙坪坝": "shapingba", "南岸": "nanana", "九龙坡": "jiulongpo",
+             "渝中": "yuzhong", "巴南": "banan", "大渡口": "dadukou", "北碚": "beibei", "万州": "wanzhouqu", "璧山": "bishanqu",
+             "合川": "hechuanqu", "永川": "yongchuanqu", "江津": "jiangjinqu", "涪陵": "fulingqu", "铜梁": "tongliangqu",
+             "长寿": "changshouqu", "潼南": "tongnanqu", "荣昌": "rongchangqu", "开州": "kaizhouqukaixian", "大足": "dazhuqu",
+             "南川": "nanchuanqu", "垫江": "dainjiangxian", "綦江": "qijiangqu", "梁平": "liangpingxian",
+             "丰都": "fengduxian", "武隆": "wulongxian", "奉节": "fengjiexian", "云阳": "yunyangxian",
+             "石柱": "shizhutujiazuzizhixian", "秀山": "xiushantujiazumiaozuzizhixian", "忠县": "zhongxian",
+             "彭水": "pengshuimiaozutujiazuzizhixian", "黔江": "qianjiangqu", "巫山": "cqwushanxian",
+             "酉阳": "youyangtujiazumiaozuzizhixian", "巫溪": "wuxixian"}
+
+error_area = get_data(area_name)
+while error_area:
+    print("获取失败的地区：")
+    for key in error_area.keys():
+        print(key, end=', ')
+    error_area = get_data(error_area)
+

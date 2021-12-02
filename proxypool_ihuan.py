@@ -30,11 +30,11 @@ port = find_port.findall(str(result))
 print(ip)
 print(port)
 
-# for i, j in zip(ip, port):
-#     sql = "insert into proxy_ip(ip,port,proxy_type) values ('{}','{}','HTTP')".format(i, j)
-#     cursor.execute(sql)
-#     conn.commit()
-# conn.close()
+for i, j in zip(ip, port):
+    sql = "insert into proxy_ip(ip,port,proxy_type) values ('{}','{}','HTTP')".format(i, j)
+    cursor.execute(sql)
+    conn.commit()
+conn.close()
 
 
 
