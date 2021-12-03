@@ -48,7 +48,7 @@ for i in range(0, num):
     }
     request = urllib.request.Request(url='http://httpbin.org/get', headers=headers, method='GET')
     try:
-        response = opener.open(request, timeout=20)
+        response = opener.open(request, timeout=10)
     except Exception as e:
         sql = "update proxy_ip set available='N' where ip='{}'".format(iplist[i][0])
         cursor.execute(sql)

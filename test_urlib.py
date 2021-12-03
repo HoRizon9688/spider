@@ -89,9 +89,9 @@ def get_data(area_name):
             print("End : %s" % time.ctime())
         else:
             print("获取失败")
-            # del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
-            # cursor.execute(del_sql)
-            # conn.commit()
+            del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
+            cursor.execute(del_sql)
+            conn.commit()
             error_area[key] = value
     return error_area
 
@@ -112,4 +112,3 @@ while error_area:
     for key in error_area.keys():
         print(key, end=', ')
     error_area = get_data(error_area)
-
