@@ -80,7 +80,7 @@ def get_data(area_name):
         if data:
             workbook = xlwt.Workbook(encoding='utf-8')
             worksheet = workbook.add_sheet('sheet1')
-            for i in range(0, 12):
+            for i in range(0, len(data)):
                 worksheet.write(i, 0, data[i])
                 worksheet.write(i, 1, num[i])
             workbook.save('{}.xls'.format(key))
