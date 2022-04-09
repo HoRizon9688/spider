@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 
 def get_data(area_name):
-    baseurl = "http://www.anjuke.com/fangjia/chongqing2018/"
+    baseurl = "http://www.anjuke.com/fangjia/chongqing2016/"
     conn = pymysql.connect(host='localhost',
                            user='root',
                            password='chy200412',
@@ -89,10 +89,10 @@ def get_data(area_name):
             print("End : %s" % time.ctime())
         else:
             print("获取失败")
-            del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
-            cursor.execute(del_sql)
-            conn.commit()
-            error_area[key] = value
+            # del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
+            # cursor.execute(del_sql)
+            # conn.commit()
+            # error_area[key] = value
     return error_area
 
 
@@ -110,5 +110,5 @@ error_area = get_data(area_name)
 while error_area:
     print("获取失败的地区：")
     for key in error_area.keys():
-        print(key, end=', ')
+        print(key)
     error_area = get_data(error_area)

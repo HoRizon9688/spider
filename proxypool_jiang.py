@@ -5,6 +5,9 @@ import pymysql
 from bs4 import BeautifulSoup
 import urllib
 import re
+import ssl
+
+context = ssl._create_unverified_context()
 
 # 获取网站验证的第一页
 conn = pymysql.connect(host='localhost',
@@ -22,7 +25,7 @@ for i in range(1, 3):
     find_ip = re.compile(r'<td>(\d*\.\d*\.\d*\.\d*)</td>')
     find_port = re.compile(r'<td>(\d*)?</td>')
     req = urllib.request.Request(url=url, headers=headers, method='GET')
-    response = urllib.request.urlopen(req)
+    response = urllib.request.urlopen(req, context=context)
     html = response.read().decode('utf-8')
     bs = BeautifulSoup(html, "html.parser")
     result = bs.find('table', class_='layui-table')
