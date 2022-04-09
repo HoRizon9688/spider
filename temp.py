@@ -15,10 +15,10 @@ headers = {
 
 req = urllib.request.Request(url=url, headers=headers, method='GET')
 response = urllib.request.urlopen(req)
-result = response.read(1).decode('utf-8')
+result = response.read().decode('utf-8')
 print(result)
-if result == '{':
-    print("no")
+# if result == '{':
+#     print("no")
 
 # try:
 #     conn = pymysql.connect(host='localhost',
