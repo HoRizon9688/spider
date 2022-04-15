@@ -51,7 +51,7 @@ for i in range(0, num):
         find_origin = re.compile(r'"origin": "(.*)",')
         origin = find_origin.findall(result)
 
-        if origin and origin[0] != real_ip:
+        if origin and origin[0] != real_ip.read().decode('utf-8'):
             sql = "update proxy_ip set available='Y' where ip='{}'".format(iplist[i][0])
             cursor.execute(sql)
             conn.commit()

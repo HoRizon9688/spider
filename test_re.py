@@ -1,16 +1,7 @@
 import re
 
-text = '''{
-  "args": {}, 
-  "headers": {
-    "Accept-Encoding": "identity", 
-    "Host": "httpbin.org", 
-    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36", 
-    "X-Amzn-Trace-Id": "Root=1-6251b649-380e733e2b145f1268077369"
-  }, 
-  "origin": "58.53.43.193", 
-  "url": "http://httpbin.org/get"
-}'''
+text = '''
+'''
 
 # find_date = re.compile(r'<b>(.*)</b>')
 # find_value = re.compile(r'<span>(.*)</span>')
@@ -19,6 +10,15 @@ text = '''{
 # for i, j in zip(data, value):
 #     print(i, j)
 
-find_origin = re.compile(r'"origin": "(.*)",')
-origin = find_origin.findall(text)
-print(origin)
+# find_origin = re.compile(r'"origin": "(.*)",')
+# origin = find_origin.findall(text)
+# print(origin)
+
+find_ip = re.compile(r'<img.*src=".*"/>(\d*\.\d*\.\d*\.\d*)</a>')
+find_port = re.compile(r'<td>(\d*)</td>')
+
+ip = find_ip.findall(text)
+port = find_port.findall(text)
+print(ip)
+print(port)
+

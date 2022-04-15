@@ -7,8 +7,8 @@ from urllib.request import urlopen
 real_ip = urlopen("https://checkip.amazonaws.com/")
 print(real_ip.read().decode('utf-8'))
 
-ip = "125.118.195.225"
-port = "7890"
+ip = "194.233.69.126"
+port = "443"
 ip_port = "{}:{}".format(ip, port)
 
 proxy_handler = urllib.request.ProxyHandler({"HTTP": ip_port})
@@ -32,5 +32,5 @@ find_origin = re.compile(r'"origin": "(.*)",')
 origin = find_origin.findall(result)
 print(origin[0])
 
-if origin and response.status == 200 and origin[0] != real_ip:
+if origin and response.status == 200 and origin[0] != real_ip.read().decode('utf-8'):
     print("PASS")
