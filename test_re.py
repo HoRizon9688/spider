@@ -1,6 +1,6 @@
 import re
 
-text = '''
+text = '''<span>15489元/㎡</span>
 '''
 
 # find_date = re.compile(r'<b>(.*)</b>')
@@ -14,11 +14,15 @@ text = '''
 # origin = find_origin.findall(text)
 # print(origin)
 
-find_ip = re.compile(r'<img.*src=".*"/>(\d*\.\d*\.\d*\.\d*)</a>')
-find_port = re.compile(r'<td>(\d*)</td>')
+# find_ip = re.compile(r'<img.*src=".*"/>(\d*\.\d*\.\d*\.\d*)</a>')
+# find_port = re.compile(r'<td>(\d*)</td>')
+#
+# ip = find_ip.findall(text)
+# port = find_port.findall(text)
+# print(ip)
+# print(port)
 
-ip = find_ip.findall(text)
-port = find_port.findall(text)
-print(ip)
-print(port)
+find_price = re.compile(r'<span>(\d*)元')
+price = find_price.findall(text)
+print(price)
 

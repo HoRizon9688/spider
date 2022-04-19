@@ -21,7 +21,7 @@ headers = {
 find_ip = re.compile(r'<td>(\d*\.\d*\.\d*\.\d*)</td>')
 find_port = re.compile(r'<td>(\d*)</td>')
 
-url = 'http://www.kxdaili.com/dailiip/1/2.html'
+url = 'http://www.kxdaili.com/dailiip/1/1.html'
 req = urllib.request.Request(url=url, headers=headers, method='GET')
 response = urllib.request.urlopen(req)
 html = response.read().decode('utf-8')
