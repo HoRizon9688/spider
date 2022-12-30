@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 
 def get_data(area_name):
-    baseurl = "http://www.anjuke.com/fangjia/chongqing2016/"
+    baseurl = "http://www.anjuke.com/fangjia/chongqing2021/"
     conn = pymysql.connect(host='localhost',
                            user='root',
                            password='chy200412',
@@ -31,7 +31,7 @@ def get_data(area_name):
         req = urllib.request.Request(url=url, headers=headers, method='GET')
         error_count = 0
         for i in range(1, 5):
-            sql = "select ip,port,proxy_type from proxy_ip group by ip order by rand() limit 1"
+            sql = "select distinct ip,port,proxy_type from proxy_ip group by ip order by rand() limit 1"
             cursor.execute(sql)
             result = cursor.fetchone()
             ip_port = "{}:{}".format(result[0], result[1])
@@ -41,7 +41,7 @@ def get_data(area_name):
             opener = urllib.request.build_opener(proxy_handler)
             print(proxy)
             try:
-                response = opener.open(req, timeout=25)
+                response = opener.open(req, timeout=20)
             except Exception:
                 error_count += 1
                 print("代理失效，第{}次尝试重新选取代理".format(i))
@@ -85,14 +85,18 @@ def get_data(area_name):
                 worksheet.write(i, 1, num[i])
             workbook.save('{}.xls'.format(key))
             print("Start : %s" % time.ctime())
-            time.sleep(random.randint(20, 40))
+            time.sleep(random.randint(10, 25))
             print("End : %s" % time.ctime())
         else:
             print("获取失败")
             # del_sql = "delete from proxy_ip where ip='{}'".format(result[0])
             # cursor.execute(del_sql)
             # conn.commit()
-            # error_area[key] = value
+            error_area[key] = value
+        if error_area:
+            for k in error_area.keys():
+                print(k)
+
     return error_area
 
 

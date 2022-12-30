@@ -40,8 +40,8 @@ find_date = re.compile(r'<b>(.*)</b>')
 find_value = re.compile(r'<span>(.*)</span>')
 bs = BeautifulSoup(html, "html.parser")
 info = bs.find_all('div', class_='fjlist-box boxstyle2', limit=1)
-for i in info:
-    data = find_date.findall(str(i))
-    num = find_value.findall(str(i))
-    for j, k in zip(data, num):
-        print(j, k)
+print(info, type(info))
+data = find_date.findall(str(info))
+num = find_value.findall(str(info))
+for j, k in zip(data, num):
+    print(j, k)
