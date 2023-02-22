@@ -27,7 +27,6 @@ origin_pre = find_prediction.findall(str(target))
 # 建表，写入日期时间和原始预测功率
 workbook = xlwt.Workbook(encoding='utf-8')
 worksheet = workbook.add_sheet('sheet1')
-
 worksheet.write(0, 0, "时间")
 worksheet.write(0, 3, "原始预测功率")
 worksheet.write(0, 5, "人工预测功率")
